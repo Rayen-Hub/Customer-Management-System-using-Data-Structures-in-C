@@ -6,5 +6,5 @@ FEATURES
 LANGUAGE
 * Data structures using C
 
-TOOLS
+TOOL
 * DEV C++
