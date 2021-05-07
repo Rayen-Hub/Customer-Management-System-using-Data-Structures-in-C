@@ -3,8 +3,6 @@ FEATURES
 * Used CRUD operations
 * Command Line Output
 
-LANGUAGE
-* Data structures using C
-
-TOOL
-* DEV C++
+SPECIFICATIONS
+* Language: Data Structures using C
+* Tool: DEV C++
